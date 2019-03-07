@@ -1,0 +1,15 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "\u001b[D\u001b[D\u001b[D\u001b  app\u001b[C\u001b[C\u001b[C\u001b[C",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mridul Manocha",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "yargs": "^4.7.1"
+  }
+}
