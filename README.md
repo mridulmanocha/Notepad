@@ -1,2 +1,2 @@
 # Notes-App-
-A Node.js application used add, read and remove notes.
+Add, Read and Remove notes using this Node.js application.
